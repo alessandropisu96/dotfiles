@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alessandro96.pisu@gmail.com
+	name = Alessandro Pisu
